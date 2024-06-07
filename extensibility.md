@@ -24,7 +24,7 @@ In progress
  - testing side effects
 
 ## Duration
-choose design pattern and implement it until milestone 2. 
+choosing design pattern and implementation until milestone 2. 
 
 ## Links and references
 https://miro.com/app/board/uXjVK-w46qc=/?moveToWidget=3458764591537161464&cot=10
