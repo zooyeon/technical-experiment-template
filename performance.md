@@ -18,6 +18,7 @@ In progress
  - raspberry pi, PC, router
 
 ## Experiment description
+ - finding bottleneck in the code
  - creating the code
  - running tests
  - checking fps on program
