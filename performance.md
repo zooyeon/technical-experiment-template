@@ -5,7 +5,7 @@
 introducing concurrency
 
 ## Objective 
-what is the maximum fps on my app to stream video? 
+what are the causes of low FPS?
 
 ## Status
 In progress
