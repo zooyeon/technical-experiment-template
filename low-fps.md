@@ -1,4 +1,4 @@
-# Experiment 2: performance 
+# Experiment 2: low FPS 
  
 
 ## Results and recommendations 
